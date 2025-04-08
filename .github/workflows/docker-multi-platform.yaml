@@ -31,7 +31,7 @@ env:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: bsyooui-MacBookPro
     permissions:
       contents: read
       packages: write
